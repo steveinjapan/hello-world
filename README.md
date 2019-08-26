@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hey everyone!
+
+It's time to get started! Onwards and upwards!
